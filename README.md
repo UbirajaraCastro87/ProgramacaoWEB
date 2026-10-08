@@ -1,22 +1,18 @@
-# ProgramacaoWEB
+# Minha primeira página Web
+Nome: Ubirajara Rodrigo Martins Costa de Castro
 
-Minha primeira página Web
+## Sobre a atividade
 
-Nome: Ubirajara Rodrigo Castro
+Esta é minha primeira página desenvolvida na disciplina
+Programação Web.
 
-Sobre a atividade
+## Tecnologias utilizadas
 
-Esta é minha primeira página desenvolvida na disciplina   Programação Web.
+- HTML
+- Git
+- GitHub
 
-Tecnologias utilizadas
-
-HTML
-
-Git
-
-GitHub
-
-Capturas de Tela
+##Capturas de Tela
 
 <img width="1353" height="496" alt="image" src="https://github.com/user-attachments/assets/adb72f86-ba48-48ea-9408-63b1ef2d074b" />
 
