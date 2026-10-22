@@ -1,20 +1,16 @@
-# Minha primeira página Web
-Nome: Ubirajara Rodrigo Martins Costa de Castro
+# Página Pessoal
 
-## Sobre a atividade
+Site pessoal desenvolvido por Ubirajara Rodrigo Castro para apresentar sua trajetória, áreas de interesse e informações de contato.
 
-Esta é minha primeira página desenvolvida na disciplina
-Programação Web.
+## Páginas
 
-## Tecnologias utilizadas
+- `index.html`: apresentação, interesses e formulário de contato.
+- `sobre.html`: experiência profissional e formação acadêmica.
+- `contato.html`: página complementar do projeto.
 
-- HTML
-- Git
-- GitHub
+## Tecnologias
 
-##Capturas de Tela
+- HTML5
+- CSS3
 
-<img width="1353" height="496" alt="image" src="https://github.com/user-attachments/assets/adb72f86-ba48-48ea-9408-63b1ef2d074b" />
-
-<img width="968" height="907" alt="image" src="https://github.com/user-attachments/assets/fb534267-d1c0-47e8-8f95-b9f20300271d" />
-
+O formulário demonstra a estrutura HTML e a validação nativa dos campos. Ele não envia mensagens para um servidor.
