@@ -2,6 +2,12 @@
 
 Site pessoal desenvolvido por Ubirajara Rodrigo Castro para apresentar sua trajetória, áreas de interesse e informações de contato.
 
+## Visualização
+
+[Acesse o site publicado no GitHub Pages](https://ubirajaracastro87.github.io/ProgramacaoWEB/).
+
+![Captura da página inicial do site pessoal](img/pagina-inicial.png)
+
 ## Páginas
 
 - `index.html`: apresentação, interesses e link para a página de contato.
